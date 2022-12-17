@@ -7,9 +7,8 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": {
-		"name": "Christopher Dalton",
-	"email": "chris@christophermdalton.com"},
+	"author": "Christopher Dalton",
+	"email": "chris@christophermdalton.com",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
